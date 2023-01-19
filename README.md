@@ -19,9 +19,12 @@ Example:
 * Marini Daniele
 * Davide Brescia
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iulianzorila/POS-Tagging/blob/6b554a18df0f9f7aa88072c5074e87388d10e762/POS-tagging.ipynb]
+## Goal 
+<a href="POS-tagging.ipynb">POS-tagging.ipynb</a>
+<a target="_blank" href="https://colab.research.google.com/github/iulianzorila/POS-Tagging/blob/6b554a18df0f9f7aa88072c5074e87388d10e762/POS-tagging.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
-## Goal
 The objective of this project is to automatically perform POS-tagging by the means of deep neural networks, using pretrained word-embeddings.
 
 ## Dataset
